@@ -9,6 +9,11 @@ This image is extended to meet Laravel requirements.
 
 Read more about **docker run** option in [official Docker documentstion](https://docs.docker.com/engine/reference/run/).
 
+### Additional software
+
+- wget
+- nano
+
 ### Prerequisites
 
 1. [Docker](https://docs.docker.com/engine/installation/)
